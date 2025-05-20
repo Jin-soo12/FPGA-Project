@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Tue May 20 20:49:16 2025
+# Process ID: 15896
+# Current directory: C:/Verilog work/Watch_Project/Watch_Project.runs/synth_1
+# Command line: vivado.exe -log Top_Watch.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Top_Watch.tcl
+# Log file: C:/Verilog work/Watch_Project/Watch_Project.runs/synth_1/Top_Watch.vds
+# Journal file: C:/Verilog work/Watch_Project/Watch_Project.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source Top_Watch.tcl -notrace
